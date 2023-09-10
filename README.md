@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/naima3456/naima3456/blob/main/cover.png" width="10%" alt="my Profile banner" />
+  <img src="https://github.com/naima3456/naima3456/blob/main/cover2.png" width="100%" alt="my Profile banner" />
 </div>
 
 <h1 align="left">👩‍💻 Holà!</h1>
